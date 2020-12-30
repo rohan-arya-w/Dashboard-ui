@@ -1,0 +1,36 @@
+.navbar {
+    height: 100%;
+    width: 80px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #2A2F4D;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.navbar i
+{
+    color: white;
+    padding:  30px 
+    
+}
+
+.up-elements
+{
+    position: absolute;
+    top: 30px;
+    border: 1px solid;
+    text-align: center;
+
+}
+
+
+.down-elements{
+    position: absolute;
+    bottom: 20px;
+    border: 1px solid;
+    text-align: center;
+}
+
