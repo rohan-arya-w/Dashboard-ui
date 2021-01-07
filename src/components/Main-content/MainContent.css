@@ -1,0 +1,15 @@
+.ul-style{
+    z-index: 50;
+    list-style: none;
+    position: absolute;
+    left:450px;
+    top: 30vh;
+}   
+
+.ul-style>li{
+    width: 1000px;
+    border:1px solid grey;
+    
+    padding: 10px;
+
+}

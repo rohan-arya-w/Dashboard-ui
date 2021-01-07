@@ -1,4 +1,4 @@
-import './Main.css'
+import './TaskPage.css'
 import "semantic-ui-css/semantic.min.css";
 
 const Main = () => {
